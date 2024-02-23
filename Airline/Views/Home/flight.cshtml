@@ -1,0 +1,53 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Airline.Models.Flight;
+
+<div class="container">
+    <div class="container-fluid col-lg-6 col-md-10 col-sm-12">
+        <h1>Add Flights</h1>
+        <hr>
+    </div>
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12">
+        <form asp-action="addingflights">
+            <div class="row">
+                <div class="col">
+                    <input asp-for="FName" type="text" class="form-control" placeholder=" Add Flight">
+                </div>
+                <div class="col">
+                    <button type="submit" class="form-control btn btn-primary">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12 mt-5">
+        <h1>Flights</h1>
+        <hr>
+    </div>
+    <div class="container-fluid">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Flight_ID</th>
+                    <th scope="col">Flight</th>
+                    <th scope="col">Operations</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var value in ViewBag.flight)
+                {
+                    <tr>
+                        <th scope="row">@value.FId</th>
+                        <td>@value.FName</td>
+                       
+                        <td><a asp-controller="Home" asp-route-id="@value.FId" asp-action="FDelete"><button class="btn btn-primary btn-sm mx-2">Delete</button></a><a asp-controller="Home" asp-route-id="@value.FId" asp-action="EditFlight" class="btn btn-success btn-sm">Edit</a></td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

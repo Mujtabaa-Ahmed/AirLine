@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Airline.Models.Role;
+
+<div class="container">
+    <div class="container-fluid col-lg-6 col-md-10 col-sm-12">
+        <h1>Add Role</h1>
+        <hr>
+    </div>
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12">
+        <form asp-action="addingRole">
+            <div class="row">
+                <div class="col">
+                    <input asp-for="RName" type="text" class="form-control" placeholder="Add Role">
+                </div>
+                <div class="col">
+                   <button type="submit" class="form-control btn btn-primary">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12 mt-5">
+        <h1>Roles</h1>
+        <hr>
+    </div>
+    <div class="container-fluid">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Role_ID</th>
+                    <th scope="col">Roles</th>
+                    
+                   
+                   
+                </tr>
+            </thead>
+            <tbody>
+                
+                @foreach (var value in ViewBag.Role)
+                {
+                    <tr>
+                        <th scope="row">@value.RId</th>
+                        <td>@value.RName</td>
+                        
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

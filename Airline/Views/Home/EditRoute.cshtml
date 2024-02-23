@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Airline.Models.Rout;
+
+<div class="container">
+    <div class="container-fluid col-lg-6 col-md-10 col-sm-12">
+        <h1>Edit Flights</h1>
+        <hr>
+    </div>
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12">
+        <form asp-action="EditingRoute">
+            <div class="row">
+                <div class="col">
+                    <input type="hidden" asp-for="RoutId" />
+                    <input asp-for="RoutName" type="text" class="form-control" placeholder="Edit Route">
+                </div>
+                <div class="col">
+                    <button type="submit" class="form-control btn btn-primary">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div />

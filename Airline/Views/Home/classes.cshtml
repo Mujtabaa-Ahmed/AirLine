@@ -1,0 +1,57 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Airline.Models.Class;
+
+<div class="container">
+    <div class="container-fluid col-lg-6 col-md-10 col-sm-12">
+        <h1>Add Class</h1>
+        <hr>
+    </div>
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12">
+        <form asp-action="addingclass">
+            <div class="row">
+                <div class="col">
+                    <input asp-for="CName" type="text" class="form-control" placeholder="Class Name">
+                </div>
+                <div class="col">
+                    <input asp-for="CPrice" type="number" class="form-control" placeholder="Price">
+                </div>
+                <div class="col">
+                    <button type="submit" class="form-control btn btn-primary">Submit</button>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12 mt-5">
+        <h1>Classes</h1>
+        <hr>
+    </div>
+    <div class="container-fluid">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Class_ID</th>
+                    <th scope="col">Class</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Operations</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var value in ViewBag.classes)
+                {
+                    <tr>
+                        <th scope="row">@value.CId</th>
+                        <td>@value.CName</td>
+                        <td>$@value.CPrice.00</td>
+                        <td><a asp-controller="Home" asp-route-id="@value.CId" asp-action="RDelete"><button class="btn btn-primary btn-sm mx-2">Delete</button></a><a asp-controller="Home" asp-route-id="@value.CId" asp-action="EditClass" class="btn btn-success btn-sm">Edit</a></td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>

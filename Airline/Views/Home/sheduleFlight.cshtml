@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Airline.Models.Schedule;
+
+<div class="container">
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12 mb-3">
+        <h1>Set Flight Schedules</h1>
+        <hr>
+    </div>
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12 mb-3 bg-dark rounded py-3">
+        <form class="text-light" asp-action="schedulingFlight">
+            <div class="row">
+            <div class="form-group col">
+                <label class="">Flight</label>
+                    <select class="form-control" asp-for="FId" asp-items="ViewBag.Fligt">
+                        <option>Select Flight</option>
+                    </select>
+                </div>
+                <div class="form-group col">
+                    <label  class="">Route</label>
+                    <select class="form-control" asp-for="RoutId" asp-items="ViewBag.Route">
+                        <option>Select Route</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <label >Departure</label>
+                <input type="datetime-local" asp-for="SDeparture" class="form-control" id="exampleInputPassword1" placeholder="">
+            </div>
+            <div class="form-group">
+                <label >Arival</label>
+                <input type="datetime-local" asp-for="SArival" class="form-control" id="exampleInputPassword1" placeholder="">
+            </div>
+            <div class="text-right"><button type="submit" class="btn btn-primary">Submit</button><div/>
+        </form>
+    </div>
+</div>

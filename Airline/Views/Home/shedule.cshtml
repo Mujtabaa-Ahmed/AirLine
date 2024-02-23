@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<Airline.Models.Schedule>
+
+<div class="container">
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12 mb-3">
+        <h1>Schedules</h1>
+        <hr>
+    </div>
+    <div class="container-fluid">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Schedule ID</th>
+                    <th scope="col">Flight</th>
+                    <th scope="col">Route</th>
+                    <th scope="col">Departure</th>
+                    <th scope="col">Arival</th>
+                    <th scope="col">Operations</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var value in ViewBag.sch)
+                {
+                    <tr>
+                        <th scope="row">@value.SId</th>
+                        <td>@value.FIdNavigation.FName</td>
+                        <td>@value.Rout.RoutName</td>
+                        <td>@value.SDeparture</td>
+                        <td>@value.SArival</td>
+                        <td><a asp-controller="Home" asp-action="Sdelete" asp-route-id="@value.SId"><button class="btn btn-primary btn-sm mx-2">Delete</button></a><a asp-controller="Home" asp-action="EditSchedule" asp-route-id="@value.SId"><button class="btn btn-success btn-sm mx-2">Edit</button></a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

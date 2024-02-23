@@ -1,0 +1,31 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Airline.Models.User;
+
+<div class="container">
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12 mb-3">
+        <h1>Add Admin</h1>
+        <hr>
+        <a asp-controller="Home" asp-action="Admins" class="btn btn-sm btn-success"><span><i class="bi bi-arrow-bar-left"></i></span>Back</a>
+    </div>
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12 mb-3 bg-dark rounded py-3">
+        <form class="text-light" asp-action="addingadmin">
+            <div class="form-group">
+                <label for="exampleInputEmail1">Name</label>
+                <input type="text" asp-for="UName" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter Name">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">E-Mail Adress</label>
+                <input type="text" asp-for="UMail" class="form-control" id="exampleInputPassword1" placeholder="Enter E-mail">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputPassword1">Craete Passward</label>
+                <input type="text" asp-for="UPass" class="form-control" id="exampleInputPassword1" placeholder="Password">
+            </div>
+            <div class="text-right"><button type="submit" class="btn btn-primary">Submit</button><div />
+        </form>
+    </div>
+</div>

@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<Airline.Models.User>
+<div class="container">
+    <div class="container-fluid col-lg-8 col-md-10 col-sm-12 mb-3">
+        <h1>Admins</h1>
+        <hr>
+        <a asp-controller="Home" asp-action="AddAdmin" class="btn btn-sm btn-success"><span>+</span>Add Admin</a>
+    </div>
+    <div class="container-fluid">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">U_ID</th>
+                    <th scope="col">Users Name</th>
+                    <th scope="col">User E-mail</th>
+                    <th scope="col">User Type</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var value in ViewBag.admins)
+                {
+                    <tr>
+                        <th scope="row">@value.UId</th>
+                        <td>@value.UName</td>
+                        <td>@value.UMail</td>
+                        <td>@value.RIdNavigation.RName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
