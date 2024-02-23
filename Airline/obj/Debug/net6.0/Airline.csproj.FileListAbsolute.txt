@@ -128,3 +128,4 @@ D:\Ahmed\C# assigment\project\Airline\Airline\obj\Debug\net6.0\refint\Airline.dl
 D:\Ahmed\C# assigment\project\Airline\Airline\obj\Debug\net6.0\Airline.pdb
 D:\Ahmed\C# assigment\project\Airline\Airline\obj\Debug\net6.0\Airline.genruntimeconfig.cache
 D:\Ahmed\C# assigment\project\Airline\Airline\obj\Debug\net6.0\ref\Airline.dll
+D:\Ahmed\C# assigment\project\Airline\Airline\obj\Debug\net6.0\Airline.sourcelink.json
