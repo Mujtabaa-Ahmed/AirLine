@@ -5,12 +5,496 @@
       "PackagePath": "staticwebassets\\Airline.bundle.scp.css"
     },
     {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.map"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\main.map",
+      "PackagePath": "staticwebassets\\css\\main.map"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\sb-admin-2.css",
       "PackagePath": "staticwebassets\\css\\sb-admin-2.css"
     },
     {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\sb-admin-2.min.css",
       "PackagePath": "staticwebassets\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\img\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\about\\info-img.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\info-img.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\b1.jpg",
+      "PackagePath": "staticwebassets\\img\\b1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\b2.jpg",
+      "PackagePath": "staticwebassets\\img\\b2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\b3.jpg",
+      "PackagePath": "staticwebassets\\img\\b3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\ads-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\ads-banner.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\blog-home-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-home-banner.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\cat-widget1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-widget1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\cat-widget2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-widget2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\cat-widget3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-widget3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\feature-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\feature-img3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\feature-img4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img4.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\feature-img5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img5.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\pp1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\pp2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\pp3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\pp4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\pp4.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\s-img.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\s-img.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\user-info.png",
+      "PackagePath": "staticwebassets\\img\\blog\\user-info.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\d1.jpg",
+      "PackagePath": "staticwebassets\\img\\d1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\d2.jpg",
+      "PackagePath": "staticwebassets\\img\\d2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\d3.jpg",
+      "PackagePath": "staticwebassets\\img\\d3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\user1.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user1.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\elements\\user2.png",
+      "PackagePath": "staticwebassets\\img\\elements\\user2.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\hotels\\about-img.jpg",
+      "PackagePath": "staticwebassets\\img\\hotels\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\hotels\\d1.jpg",
+      "PackagePath": "staticwebassets\\img\\hotels\\d1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\hotels\\d2.jpg",
+      "PackagePath": "staticwebassets\\img\\hotels\\d2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\hotels\\d3.jpg",
+      "PackagePath": "staticwebassets\\img\\hotels\\d3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\hotels\\d4.jpg",
+      "PackagePath": "staticwebassets\\img\\hotels\\d4.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\hotels\\d5.jpg",
+      "PackagePath": "staticwebassets\\img\\hotels\\d5.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\hotels\\d6.jpg",
+      "PackagePath": "staticwebassets\\img\\hotels\\d6.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\i1.jpg",
+      "PackagePath": "staticwebassets\\img\\i1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\i2.jpg",
+      "PackagePath": "staticwebassets\\img\\i2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\i3.jpg",
+      "PackagePath": "staticwebassets\\img\\i3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\i4.jpg",
+      "PackagePath": "staticwebassets\\img\\i4.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\i5.jpg",
+      "PackagePath": "staticwebassets\\img\\i5.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\i6.jpg",
+      "PackagePath": "staticwebassets\\img\\i6.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\i7.jpg",
+      "PackagePath": "staticwebassets\\img\\i7.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\i8.jpg",
+      "PackagePath": "staticwebassets\\img\\i8.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\insurence\\bullet.png",
+      "PackagePath": "staticwebassets\\img\\insurence\\bullet.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\insurence\\i1.jpg",
+      "PackagePath": "staticwebassets\\img\\insurence\\i1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\insurence\\i2.jpg",
+      "PackagePath": "staticwebassets\\img\\insurence\\i2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\o1.jpg",
+      "PackagePath": "staticwebassets\\img\\o1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\o2.jpg",
+      "PackagePath": "staticwebassets\\img\\o2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\o3.jpg",
+      "PackagePath": "staticwebassets\\img\\o3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\o4.jpg",
+      "PackagePath": "staticwebassets\\img\\o4.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\packages\\about-img.jpg",
+      "PackagePath": "staticwebassets\\img\\packages\\about-img.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\packages\\d1.jpg",
+      "PackagePath": "staticwebassets\\img\\packages\\d1.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\packages\\d2.jpg",
+      "PackagePath": "staticwebassets\\img\\packages\\d2.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\packages\\d3.jpg",
+      "PackagePath": "staticwebassets\\img\\packages\\d3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\packages\\d4.jpg",
+      "PackagePath": "staticwebassets\\img\\packages\\d4.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\packages\\d5.jpg",
+      "PackagePath": "staticwebassets\\img\\packages\\d5.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\packages\\d6.jpg",
+      "PackagePath": "staticwebassets\\img\\packages\\d6.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\packages\\hot-deal.jpg",
+      "PackagePath": "staticwebassets\\img\\packages\\hot-deal.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\price-bg.png",
+      "PackagePath": "staticwebassets\\img\\price-bg.png"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\top-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\top-banner.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\img\\ui-icons_444444_256x240.png"
     },
     {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\undraw_posting_photo.svg",
@@ -53,12 +537,64 @@
       "PackagePath": "staticwebassets\\js\\demo\\datatables-demo.js"
     },
     {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\js\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\hoverIntent.js",
+      "PackagePath": "staticwebassets\\js\\hoverIntent.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\js\\mail-script.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\sb-admin-2.js",
       "PackagePath": "staticwebassets\\js\\sb-admin-2.js"
     },
     {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\sb-admin-2.min.js",
       "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\superfish.min.js",
+      "PackagePath": "staticwebassets\\js\\superfish.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-2.2.4.min.js"
     },
     {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\_buttons.scss",
@@ -109,6 +645,346 @@
       "PackagePath": "staticwebassets\\scss\\_variables.scss"
     },
     {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_navbar-align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_navbar-align.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\main.scss"
+    },
+    {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\navs\\_global.scss",
       "PackagePath": "staticwebassets\\scss\\navs\\_global.scss"
     },
@@ -123,6 +999,58 @@
     {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\sb-admin-2.scss",
       "PackagePath": "staticwebassets\\scss\\sb-admin-2.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_about.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_about.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_blog.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_contact.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_flexbox.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_flexbox.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_insurence.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_insurence.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_packages.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_packages.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_variables.scss"
     },
     {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\scss\\utilities\\_animation.scss",
