@@ -8,7 +8,63 @@
 <section class="banner-area relative">
 	<div class="overlay overlay-bg"></div>
 	<div class="container">
+
+
 		<div class="row fullscreen align-items-center justify-content-between">
+			<div class="col-md-4">
+				<div class="booking-cta ">
+					<h1>Book your flight today</h1>
+					<p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate laboriosam numquam at</p>
+				</div>
+			</div>
+            <div class="col-md-7 col-md-offset-1">
+               
+                <div class="booking-form">
+                    <h2 class="display-2 mb-3">Find Flight</h2>
+                    
+					<form asp-action="flights" method="post">
+						
+						
+						<div class="row">
+							<div class="col-md-6">
+								<div class="form-group">
+									<span class="form-label">Flying from</span>
+									<input class="form-control" name="from" type="text" placeholder="City or airport">
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="form-group">
+									<span class="form-label">Flyning to</span>
+									<input class="form-control" name="to" type="text" placeholder="City or airport">
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-6">
+								<div class="form-group">
+									<span class="form-label">Departing</span>
+									<input class="form-control" type="date" required>
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="form-group">
+									<span class="form-label">Returning</span>
+									<input class="form-control" type="date" required>
+								</div>
+							</div>
+						</div>
+						
+						<div class="form-btn">
+							<button class="submit-btn">Show flights</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+
+
+
+		@*<div class="row fullscreen align-items-center justify-content-between">
 			<div class="col-lg-6 col-md-6 banner-left">
 				<h6 class="text-white">Away from monotonous life</h6>
 				<h1 class="text-white">Magical Travel</h1>
@@ -30,15 +86,15 @@
 					</li>
 				</ul>
 				<div class="tab-content" id="myTabContent">
-					<div class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
-						<form class="form-wrap">
+					 <div class="tab-pane fade show active" id="flight" role="tabpanel" aria-labelledby="flight-tab">
+						<form class="form-wrap" asp-action="flights" method="post">
 							<input type="text" class="form-control" name="name" placeholder="From " onfocus="this.placeholder = ''" onblur="this.placeholder = 'From '">
-							<input type="text" class="form-control" name="to" placeholder="To " onfocus="this.placeholder = ''" onblur="this.placeholder = 'To '">
+							 <input type="text" class="form-control" name="to" placeholder="To " onfocus="this.placeholder = ''" onblur="this.placeholder = 'To '">
 							<input type="text" class="form-control date-picker" name="start" placeholder="Start " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Start '">
 							<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Return '">
 							<input type="number" min="1" max="20" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
-							<input type="number" min="1" max="20" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">
-							<a href="#" class="primary-btn text-uppercase">Search flights</a>
+							<input type="number" min="1" max="20" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '"> 
+							<button class="primary-btn text-uppercase" type="submit">Search Holidays</button>
 						</form>
 					</div>
 					<div class="tab-pane fade" id="hotel" role="tabpanel" aria-labelledby="hotel-tab">
@@ -51,7 +107,7 @@
 							<input type="number" min="1" max="20" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">
 							<a href="#" class="primary-btn text-uppercase">Search Hotels</a>
 						</form>
-					</div>
+					</div> 
 					<div class="tab-pane fade" id="holiday" role="tabpanel" aria-labelledby="holiday-tab">
 						<form class="form-wrap">
 							<input type="text" class="form-control" name="name" placeholder="From " onfocus="this.placeholder = ''" onblur="this.placeholder = 'From '">
@@ -60,12 +116,13 @@
 							<input type="text" class="form-control date-picker" name="return" placeholder="Return " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Return '">
 							<input type="number" min="1" max="20" class="form-control" name="adults" placeholder="Adults " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adults '">
 							<input type="number" min="1" max="20" class="form-control" name="child" placeholder="Child " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Child '">
-							<a href="#" class="primary-btn text-uppercase">Search Holidays</a>
+							<a asp-controller="User" asp-action="flights" class="primary-btn text-uppercase">Search Holidays</a>
 						</form>
 					</div>
+
 				</div>
 			</div>
-		</div>
+		</div>*@
 	</div>
 </section>
 <!-- End banner Area -->

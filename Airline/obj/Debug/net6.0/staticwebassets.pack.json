@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\css\\bootstrap.map"
     },
     {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
     },
@@ -67,6 +71,10 @@
     {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\sb-admin-2.min.css",
       "PackagePath": "staticwebassets\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\FontAwesome.otf",
@@ -131,6 +139,10 @@
     {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\b3.jpg",
       "PackagePath": "staticwebassets\\img\\b3.jpg"
+    },
+    {
+      "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\background.jpg",
+      "PackagePath": "staticwebassets\\img\\background.jpg"
     },
     {
       "Id": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\ads-banner.jpg",

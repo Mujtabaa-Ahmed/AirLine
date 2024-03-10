@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lMdSpIklLSui8RdHz4EwbDlY5ti0fznuzPAAciAX4X0=",
+  "Hash": "5BmlJiDO6rzTUSMkzmUSv0ebGH7ycgB31ZUM1qUD3jc=",
   "Source": "Airline",
   "BasePath": "_content/Airline",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.map"
+    },
+    {
+      "Identity": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "Airline",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\",
+      "BasePath": "_content/Airline",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
       "Identity": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\bootstrap\\bootstrap.css",
@@ -357,6 +376,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Identity": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\css\\style.css",
+      "SourceId": "Airline",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\",
+      "BasePath": "_content/Airline",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\fonts\\FontAwesome.otf",
@@ -661,6 +699,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\b3.jpg"
+    },
+    {
+      "Identity": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\background.jpg",
+      "SourceId": "Airline",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\",
+      "BasePath": "_content/Airline",
+      "RelativePath": "img/background.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\background.jpg"
     },
     {
       "Identity": "D:\\Ahmed\\C# assigment\\project\\Airline\\Airline\\wwwroot\\img\\blog\\ads-banner.jpg",

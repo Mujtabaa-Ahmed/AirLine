@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Routs</th>
+                <th scope="col">Flights</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @if (ViewBag.Flight != null)
+            {
+                
+                    @foreach (var value in ViewBag.Flight)
+                    {
+                        <tr>
+                            <td>@value.SId</td>
+                            <td>@value.Rout.RoutName</td>
+                            <td>@value.FIdNavigation.FName</td>
+                        </tr>
+
+
+                    }
+               
+
+            }  else
+    {
+    <h1>@ViewBag.error</h1>
+    }
+            
+        </tbody>
+    </table>
+  
+</div>

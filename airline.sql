@@ -14,6 +14,8 @@ u_pass varchar (255),
 r_id int,
 foreign key (r_id) references role(r_id),
 );
+select * from schedule;
+select * from rout;
 select * from Users;
 
 create table flight
